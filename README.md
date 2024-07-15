@@ -1,4 +1,4 @@
-                                                                                  Space Invaders Game
+  Space Invaders Game
  _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 The project is game written in python based on the game called "Space Invaders" which has been around since the earliest days of home computing and has re-emerged in recent years on mobile phone's.
